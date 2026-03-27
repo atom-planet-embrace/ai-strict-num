@@ -1,5 +1,5 @@
 /*!
-A collection of bounded numeric types.
+A no_std fork of strict-num. A collection of bounded numeric types.
 
 Includes:
 

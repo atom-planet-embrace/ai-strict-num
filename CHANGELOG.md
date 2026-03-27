@@ -30,6 +30,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - Initial version
 
-[Unreleased]: https://github.com/RazrFalcon/strict-num/compare/v0.2.0...HEAD
-[0.2.0]: https://github.com/RazrFalcon/strict-num/compare/v0.1.1...v0.2.0
-[0.1.1]: https://github.com/RazrFalcon/strict-num/compare/v0.1.0...v0.1.1
+[Unreleased]: https://github.com/atom-planet-embrace/ai-strict-num/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/atom-planet-embrace/ai-strict-num/compare/v0.1.1...v0.2.0
+[0.1.1]: https://github.com/atom-planet-embrace/ai-strict-num/compare/v0.1.0...v0.1.1

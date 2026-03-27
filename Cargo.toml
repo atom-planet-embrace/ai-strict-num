@@ -1,11 +1,11 @@
 [package]
-name = "strict-num"
+name = "ai-strict-num"
 version = "0.2.0"
 authors = ["Yevhenii Reizner <razrfalcon@gmail.com>"]
 license = "MIT"
-description = "A collection of bounded numeric types"
-repository = "https://github.com/RazrFalcon/strict-num"
-documentation = "https://docs.rs/strict-num/"
+description = "A no_std fork of strict-num"
+repository = "https://github.com/atom-planet-embrace/ai-strict-num"
+documentation = "https://docs.rs/ai-strict-num/"
 categories = ["mathematics", "no-std"]
 readme = "README.md"
 edition = "2021"
