@@ -22,8 +22,11 @@ jobs:
       with:
         toolchain: ${{ matrix.rust }}
 
-    - name: Build without approx-eq
+    - name: Build
       run: cargo build
+
+    - name: Build without approx-eq
+      run: cargo build --no-default-features
 
     - name: Run tests
       run: cargo test --features approx-eq,serde
